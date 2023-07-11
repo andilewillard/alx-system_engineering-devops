@@ -1,1 +1,1 @@
-etc/delete
+/etc/hosts
